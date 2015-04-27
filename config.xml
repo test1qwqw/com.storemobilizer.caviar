@@ -3,10 +3,10 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.caviar"
-  version     = "15.04.24"
-  versionCode = "150424"
+  version     = "15.04.27"
+  versionCode = "150427"
 >
-  <name>Beverly Hills Caviar Store</name>
+  <name>Caviar Shop Gourmet Food Gifts</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
